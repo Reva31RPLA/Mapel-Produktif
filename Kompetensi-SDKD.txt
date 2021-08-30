@@ -7,5 +7,6 @@ c. Github
    - Membuat akun
    - Membuat repository
    - Membuat file baru
-   - Membuat Commit
+   - Membuat commit
 d. Git
+   - Belum
